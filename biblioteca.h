@@ -4,14 +4,14 @@
 int tela_principal(void) {
   int op;
   printf("\n"
-	"//////////////////////////////////////////////////////////////////////////////\n"
+  "//////////////////////////////////////////////////////////////////////////////\n"
   "///                                                                        ///\n"
   "///             Universidade Federal do Rio Grande do Norte                ///\n"
   "///                 Centro de Ensino Superior do Seridó                    ///\n"
   "///               Departamento de Computação e Tecnologia                  ///\n"
   "///                  Disciplina DCT1106 -- Programação                     ///\n"
-	"///                SIG - Beer: Assinatura de Cervejas                      ///\n"
-	"///    Developed by @andersonazeved and @ericleisonn -- since Aug, 2022    ///\n"
+  "///                SIG - Beer: Assinatura de Cervejas                      ///\n"
+  "///    Developed by @andersonazeved and @ericleisonn -- since Aug, 2022    ///\n"
   "///                                                                        ///\n"
   "//////////////////////////////////////////////////////////////////////////////\n"
   "///                                                                        ///\n"
@@ -34,14 +34,14 @@ int tela_principal(void) {
 
 void tela_equipe(void) {
   printf("\n"
-	"//////////////////////////////////////////////////////////////////////////////\n"
+  "//////////////////////////////////////////////////////////////////////////////\n"
   "///                                                                        ///\n"
   "///             Universidade Federal do Rio Grande do Norte                ///\n"
   "///                 Centro de Ensino Superior do Seridó                    ///\n"
   "///               Departamento de Computação e Tecnologia                  ///\n"
   "///                  Disciplina DCT1106 -- Programação                     ///\n"
-	"///                 SIG - Beer: Assinatura de Cervejas                     ///\n"
-	"///    Developed by @andersonazeved and @ericleisonn -- since Aug, 2022    ///\n"
+  "///                 SIG - Beer: Assinatura de Cervejas                     ///\n"
+  "///    Developed by @andersonazeved and @ericleisonn -- since Aug, 2022    ///\n"
   "///                                                                        ///\n"
   "//////////////////////////////////////////////////////////////////////////////\n"
   "///                                                                        ///\n"
@@ -57,19 +57,19 @@ void tela_equipe(void) {
   "///    Git: https://github.com/AndersonAzeved/SIG-Beer                     ///\n"                                                    
   "///                                                                        ///\n"
   "//////////////////////////////////////////////////////////////////////////////\n"
-	"\n");
+  "\n");
   }
 
 void tela_sobre(void){
   printf("\n"
-	"//////////////////////////////////////////////////////////////////////////////\n"
+  "//////////////////////////////////////////////////////////////////////////////\n"
   "///                                                                        ///\n"
   "///             Universidade Federal do Rio Grande do Norte                ///\n"
   "///                 Centro de Ensino Superior do Seridó                    ///\n"
   "///               Departamento de Computação e Tecnologia                  ///\n"
   "///                  Disciplina DCT1106 -- Programação                     ///\n"
-	"///                 SIG - Beer: Assinatura de Cervejas                     ///\n"
-	"///    Developed by @andersonazeved and @ericleisonn -- since Aug, 2022    ///\n"
+  "///                 SIG - Beer: Assinatura de Cervejas                     ///\n"
+  "///    Developed by @andersonazeved and @ericleisonn -- since Aug, 2022    ///\n"
   "///                                                                        ///\n"
   "//////////////////////////////////////////////////////////////////////////////\n"
   "///                                                                        ///\n"
@@ -84,7 +84,7 @@ void tela_sobre(void){
   "///    controle de pagamento das assinaturas.                              ///\n"
   "///                                                                        ///\n"
   "//////////////////////////////////////////////////////////////////////////////\n"
-	"\n");
+  "\n");
   }
 
 int tela_cervejas(void) {
@@ -174,14 +174,14 @@ int tela_lixeira(void){
 
 void tela_opcao_invalida(void){
   printf("\n"
-	"//////////////////////////////////////////////////////////////////////////////\n"
+  "//////////////////////////////////////////////////////////////////////////////\n"
   "///                                                                        ///\n"
   "///             Universidade Federal do Rio Grande do Norte                ///\n"
   "///                 Centro de Ensino Superior do Seridó                    ///\n"
   "///               Departamento de Computação e Tecnologia                  ///\n"
   "///                  Disciplina DCT1106 -- Programação                     ///\n"
   "///                 SIG - Beer: Assinatura de Cervejas                     ///\n"
-	"///    Developed by @andersonazeved and @ericleisonn -- since Aug, 2022    ///\n"
+  "///    Developed by @andersonazeved and @ericleisonn -- since Aug, 2022    ///\n"
   "///                                                                        ///\n"
   "//////////////////////////////////////////////////////////////////////////////\n"
   "///                                                                        ///\n"
@@ -192,7 +192,7 @@ void tela_opcao_invalida(void){
   "///                                                                        ///\n"
   "///                                                                        ///\n"
   "//////////////////////////////////////////////////////////////////////////////\n"
-	"\n");
+  "\n");
   }
 
 int tela_assinaturas(void){
@@ -255,14 +255,14 @@ int tela_fornecedores(void){
 
 void tela_encerramento(void){
   printf("\n"
-	"//////////////////////////////////////////////////////////////////////////////\n"
+  "//////////////////////////////////////////////////////////////////////////////\n"
   "///                                                                        ///\n"
   "///             Universidade Federal do Rio Grande do Norte                ///\n"
   "///                 Centro de Ensino Superior do Seridó                    ///\n"
   "///               Departamento de Computação e Tecnologia                  ///\n"
   "///                  Disciplina DCT1106 -- Programação                     ///\n"
-	"///                SIG - Beer: Assinatura de Cervejas                      ///\n"
-	"///    Developed by @andersonazeved and @ericleisonn -- since Aug, 2022    ///\n"
+  "///                SIG - Beer: Assinatura de Cervejas                      ///\n"
+  "///    Developed by @andersonazeved and @ericleisonn -- since Aug, 2022    ///\n"
   "///                                                                        ///\n"
   "//////////////////////////////////////////////////////////////////////////////\n"
   "///                                                                        ///\n"
@@ -273,5 +273,5 @@ void tela_encerramento(void){
   "///                                                                        ///\n"
   "///                                                                        ///\n"
   "//////////////////////////////////////////////////////////////////////////////\n"
-	"\n");
+  "\n");
   }
