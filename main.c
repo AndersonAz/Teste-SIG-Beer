@@ -3,7 +3,7 @@
 ///                 Centro de Ensino Superior do Seridó                     ///
 ///               Departamento de Computação e Tecnologia                   ///
 ///                  Disciplina DCT1106 -- Programação                      ///
-///               	SIG - Beer: Assinatura de Cervejas                      ///
+///               	SIG - Beer: Assinatura de Cervejas                  ///
 ///    Developed by @andersonazeved and @ericleisonn -- since Aug, 2022     ///
 ///////////////////////////////////////////////////////////////////////////////
 ///                                Semana 2                                 ///
